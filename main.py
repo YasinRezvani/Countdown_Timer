@@ -9,7 +9,7 @@ def countdown(t):
         t -= 1
     print("Time Completed")    
 
-t = input("Enter The Time in secends: ")
+t = input("Enter the time in Seconds: ")
 countdown(int(t))
 
 

@@ -7,5 +7,7 @@ The simple countdown timer in eazy code to show timer
 #### After if timer == 0 show this:
 > Time Completed 
 # Demo 🎉
-![demo_code](https://user-images.githubusercontent.com/77124662/129474132-9b78a81b-2161-4418-918b-192e4652dc2e.PNG)
-![demo_result](https://user-images.githubusercontent.com/77124662/129474134-0fca77aa-c52f-4000-9ab4-ebf005a8ac17.PNG)
+![demo_timer](https://user-images.githubusercontent.com/77124662/129491745-71c63a60-285b-4bf8-b880-b5fe11d2df06.PNG)
+![demo_completed](https://user-images.githubusercontent.com/77124662/129491743-717edf8d-9cb6-4904-a39d-a9ce20063370.PNG)
+
+

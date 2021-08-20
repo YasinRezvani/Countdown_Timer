@@ -10,7 +10,10 @@ def countdown(t):
     print("Time Completed")    
 
 t = input("Enter the time in Seconds: ")
+print("\n")
 countdown(int(t))
+
+input()
 
 
 # Made By Yasin Rezvani

@@ -9,11 +9,15 @@ def countdown(t):
         t -= 1
     print("Time Completed")    
 
-t = input("Enter the time in Seconds: ")
-print("\n")
+t = input("\nEnter the time in Seconds: ")
+print("")
+print(30*"-")
+print("")
 countdown(int(t))
-
+print("")
+print(30*"-")
 input()
+
 
 
 # Made By Yasin Rezvani
